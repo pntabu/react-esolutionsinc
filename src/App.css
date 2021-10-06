@@ -1,0 +1,74 @@
+a{
+  color: whitesmoke;
+}
+
+p{
+  font-size: 14px;
+  color: black;
+}
+
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-heading{
+  color: rgb(204, 18, 18);
+  font-size: 26px;
+}
+
+.underline{
+  height: 0.4px;
+  width: 50rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.underline-card{
+  height: 0.4px;
+  width: 10rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light{
+  background-color: #e7e7e7;
+}
+
+.footer a{
+  color: #fff;
+  text-decoration: none !important;
+  text-align: center;
+}
+
+.footer a:hover{
+  color: gray;
+}
+
+.footer p{
+  color: #fff;
+  text-decoration: none !important;
+  text-align: justify;
+}
+
+.nav-item ul{
+  background-color: rgb(226, 107, 107);
+  
+}
+
+.footer{
+  padding-top: 35px;
+}
+
+.required{
+  font-style: italic;
+  color: red;
+}
+
+.form-group{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
